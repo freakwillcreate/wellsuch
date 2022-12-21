@@ -1,0 +1,1697 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:10:47] weburl = "www.sa-mp.com"  (string)
+[00:10:47] 
+[00:10:47] Server Plugins
+[00:10:47] --------------
+[00:10:47]  Loading plugin: sscanf
+[00:10:47] 
+[00:10:47]  ===============================
+[00:10:47] 
+[00:10:47]       sscanf plugin loaded.     
+[00:10:47] 
+[00:10:47]          Version: 2.13.2
+[00:10:47] 
+[00:10:47]    (c) 2022 Alex "Y_Less" Cole  
+[00:10:47] 
+[00:10:47]  ===============================
+[00:10:47] 
+[00:10:47]   Loaded.
+[00:10:47]  Loading plugin: dc_cmd
+[00:10:47]   Daniel's CMD plugin v2.8
+[00:10:47]     (c) 2014 Daniel_Cortez
+[00:10:47] 	www.pro-pawn.ru
+[00:10:47]   Loaded.
+[00:10:47]  Loading plugin: RouteConnectorPlugin
+[00:10:47]   Failed.
+[00:10:47]  Loaded 2 plugins.
+
+[00:10:47] I couldn't load any gamemode scripts. Please verify your server.cfg
+[00:10:47] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:10:50] weburl = "www.sa-mp.com"  (string)
+[00:10:50] 
+[00:10:50] Server Plugins
+[00:10:50] --------------
+[00:10:50]  Loading plugin: sscanf
+[00:10:50] 
+[00:10:50]  ===============================
+[00:10:50] 
+[00:10:50]       sscanf plugin loaded.     
+[00:10:50] 
+[00:10:50]          Version: 2.13.2
+[00:10:50] 
+[00:10:50]    (c) 2022 Alex "Y_Less" Cole  
+[00:10:50] 
+[00:10:50]  ===============================
+[00:10:50] 
+[00:10:50]   Loaded.
+[00:10:50]  Loading plugin: dc_cmd
+[00:10:50]   Daniel's CMD plugin v2.8
+[00:10:50]     (c) 2014 Daniel_Cortez
+[00:10:50] 	www.pro-pawn.ru
+[00:10:50]   Loaded.
+[00:10:50]  Loading plugin: RouteConnectorPlugin
+[00:10:50]   Failed.
+[00:10:50]  Loaded 2 plugins.
+
+[00:10:50] I couldn't load any gamemode scripts. Please verify your server.cfg
+[00:10:50] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:11:12] filterscripts = ""  (string)
+[00:11:12] weburl = "www.sa-mp.com"  (string)
+[00:11:12] 
+[00:11:12] Server Plugins
+[00:11:12] --------------
+[00:11:12]  Loading plugin: sscanf
+[00:11:12] 
+[00:11:12]  ===============================
+[00:11:12] 
+[00:11:12]       sscanf plugin loaded.     
+[00:11:12] 
+[00:11:12]          Version: 2.13.2
+[00:11:12] 
+[00:11:12]    (c) 2022 Alex "Y_Less" Cole  
+[00:11:12] 
+[00:11:12]  ===============================
+[00:11:12] 
+[00:11:12]   Loaded.
+[00:11:12]  Loading plugin: dc_cmd
+[00:11:12]   Daniel's CMD plugin v2.8
+[00:11:12]     (c) 2014 Daniel_Cortez
+[00:11:12] 	www.pro-pawn.ru
+[00:11:12]   Loaded.
+[00:11:12]  Loaded 2 plugins.
+
+[00:11:12] 
+[00:11:12] Filterscripts
+[00:11:12] ---------------
+[00:11:12]   Loaded 0 filterscripts.
+
+[00:11:12] Number of vehicle models: 0
+[00:11:33] [connection] 127.0.0.1:62232 requests connection cookie.
+[00:11:34] [connection] incoming connection: 127.0.0.1:62232 id: 0
+[00:11:34] [join] wayn. has joined the server (0:127.0.0.1)
+[00:13:22] [part] wayn. has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:17:02] filterscripts = ""  (string)
+[00:17:02] weburl = "www.sa-mp.com"  (string)
+[00:17:02] 
+[00:17:02] Server Plugins
+[00:17:02] --------------
+[00:17:02]  Loading plugin: sscanf
+[00:17:02] 
+[00:17:02]  ===============================
+[00:17:02] 
+[00:17:02]       sscanf plugin loaded.     
+[00:17:02] 
+[00:17:02]          Version: 2.13.2
+[00:17:02] 
+[00:17:02]    (c) 2022 Alex "Y_Less" Cole  
+[00:17:02] 
+[00:17:02]  ===============================
+[00:17:02] 
+[00:17:02]   Loaded.
+[00:17:02]  Loading plugin: dc_cmd
+[00:17:02]   Daniel's CMD plugin v2.8
+[00:17:02]     (c) 2014 Daniel_Cortez
+[00:17:02] 	www.pro-pawn.ru
+[00:17:02]   Loaded.
+[00:17:02]  Loaded 2 plugins.
+
+[00:17:02] 
+[00:17:02] Filterscripts
+[00:17:02] ---------------
+[00:17:02]   Loaded 0 filterscripts.
+
+[00:17:02] Number of vehicle models: 0
+[00:17:19] [connection] 127.0.0.1:60648 requests connection cookie.
+[00:17:20] [connection] incoming connection: 127.0.0.1:60648 id: 0
+[00:17:20] [join] wayn. has joined the server (0:127.0.0.1)
+[00:18:42] [part] wayn. has left the server (0:0)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[02:18:11] filterscripts = ""  (string)
+[02:18:12] weburl = "www.sa-mp.com"  (string)
+[02:18:12] 
+[02:18:12] Server Plugins
+[02:18:12] --------------
+[02:18:12]  Loading plugin: sscanf
+[02:18:12] 
+[02:18:12]  ===============================
+[02:18:12] 
+[02:18:12]       sscanf plugin loaded.     
+[02:18:12] 
+[02:18:12]          Version: 2.13.2
+[02:18:12] 
+[02:18:12]    (c) 2022 Alex "Y_Less" Cole  
+[02:18:12] 
+[02:18:12]  ===============================
+[02:18:12] 
+[02:18:12]   Loaded.
+[02:18:12]  Loading plugin: dc_cmd
+[02:18:12]   Daniel's CMD plugin v2.8
+[02:18:12]     (c) 2014 Daniel_Cortez
+[02:18:12] 	www.pro-pawn.ru
+[02:18:12]   Loaded.
+[02:18:12]  Loaded 2 plugins.
+
+[02:18:12] 
+[02:18:12] Filterscripts
+[02:18:12] ---------------
+[02:18:12]   Loaded 0 filterscripts.
+
+[02:18:12] Number of vehicle models: 0
+[02:18:31] [connection] 127.0.0.1:63720 requests connection cookie.
+[02:18:32] [connection] incoming connection: 127.0.0.1:63720 id: 0
+[02:18:33] [join] wayn. has joined the server (0:127.0.0.1)
+[02:19:30] [part] wayn. has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[02:19:50] filterscripts = ""  (string)
+[02:19:50] weburl = "www.sa-mp.com"  (string)
+[02:19:50] 
+[02:19:50] Server Plugins
+[02:19:50] --------------
+[02:19:50]  Loading plugin: sscanf
+[02:19:50] 
+[02:19:50]  ===============================
+[02:19:50] 
+[02:19:50]       sscanf plugin loaded.     
+[02:19:50] 
+[02:19:50]          Version: 2.13.2
+[02:19:50] 
+[02:19:50]    (c) 2022 Alex "Y_Less" Cole  
+[02:19:50] 
+[02:19:50]  ===============================
+[02:19:50] 
+[02:19:50]   Loaded.
+[02:19:50]  Loading plugin: dc_cmd
+[02:19:50]   Daniel's CMD plugin v2.8
+[02:19:50]     (c) 2014 Daniel_Cortez
+[02:19:50] 	www.pro-pawn.ru
+[02:19:50]   Loaded.
+[02:19:50]  Loaded 2 plugins.
+
+[02:19:50] 
+[02:19:50] Filterscripts
+[02:19:50] ---------------
+[02:19:50]   Loaded 0 filterscripts.
+
+[02:19:50] Number of vehicle models: 0
+[02:20:07] [connection] 127.0.0.1:51521 requests connection cookie.
+[02:20:08] [connection] incoming connection: 127.0.0.1:51521 id: 0
+[02:20:09] [join] wayn. has joined the server (0:127.0.0.1)
+[02:20:48] [part] wayn. has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[02:26:48] filterscripts = ""  (string)
+[02:26:48] weburl = "www.sa-mp.com"  (string)
+[02:26:48] 
+[02:26:48] Server Plugins
+[02:26:48] --------------
+[02:26:48]  Loading plugin: sscanf
+[02:26:48] 
+[02:26:48]  ===============================
+[02:26:48] 
+[02:26:48]       sscanf plugin loaded.     
+[02:26:48] 
+[02:26:48]          Version: 2.13.2
+[02:26:48] 
+[02:26:48]    (c) 2022 Alex "Y_Less" Cole  
+[02:26:48] 
+[02:26:48]  ===============================
+[02:26:48] 
+[02:26:48]   Loaded.
+[02:26:48]  Loading plugin: dc_cmd
+[02:26:48]   Daniel's CMD plugin v2.8
+[02:26:48]     (c) 2014 Daniel_Cortez
+[02:26:48] 	www.pro-pawn.ru
+[02:26:48]   Loaded.
+[02:26:48]  Loaded 2 plugins.
+
+[02:26:48] 
+[02:26:48] Filterscripts
+[02:26:48] ---------------
+[02:26:48]   Loaded 0 filterscripts.
+
+[02:26:48] Number of vehicle models: 0
+[02:27:06] [connection] 127.0.0.1:54095 requests connection cookie.
+[02:27:07] [connection] incoming connection: 127.0.0.1:54095 id: 0
+[02:27:07] [join] wayn. has joined the server (0:127.0.0.1)
+[02:27:16] [part] wayn. has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[02:28:54] filterscripts = ""  (string)
+[02:28:54] weburl = "www.sa-mp.com"  (string)
+[02:28:54] 
+[02:28:54] Server Plugins
+[02:28:54] --------------
+[02:28:54]  Loading plugin: sscanf
+[02:28:54] 
+[02:28:54]  ===============================
+[02:28:54] 
+[02:28:54]       sscanf plugin loaded.     
+[02:28:54] 
+[02:28:54]          Version: 2.13.2
+[02:28:54] 
+[02:28:54]    (c) 2022 Alex "Y_Less" Cole  
+[02:28:54] 
+[02:28:54]  ===============================
+[02:28:54] 
+[02:28:54]   Loaded.
+[02:28:54]  Loading plugin: dc_cmd
+[02:28:54]   Daniel's CMD plugin v2.8
+[02:28:54]     (c) 2014 Daniel_Cortez
+[02:28:54] 	www.pro-pawn.ru
+[02:28:54]   Loaded.
+[02:28:54]  Loaded 2 plugins.
+
+[02:28:54] 
+[02:28:54] Filterscripts
+[02:28:54] ---------------
+[02:28:54]   Loaded 0 filterscripts.
+
+[02:28:54] Number of vehicle models: 0
+[02:29:19] [connection] 127.0.0.1:51874 requests connection cookie.
+[02:29:20] [connection] incoming connection: 127.0.0.1:51874 id: 0
+[02:29:20] [join] wayn. has joined the server (0:127.0.0.1)
+[02:30:29] [part] wayn. has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[02:33:05] filterscripts = ""  (string)
+[02:33:05] weburl = "www.sa-mp.com"  (string)
+[02:33:05] 
+[02:33:05] Server Plugins
+[02:33:05] --------------
+[02:33:05]  Loading plugin: sscanf
+[02:33:05] 
+[02:33:05]  ===============================
+[02:33:05] 
+[02:33:05]       sscanf plugin loaded.     
+[02:33:05] 
+[02:33:05]          Version: 2.13.2
+[02:33:05] 
+[02:33:05]    (c) 2022 Alex "Y_Less" Cole  
+[02:33:05] 
+[02:33:05]  ===============================
+[02:33:05] 
+[02:33:05]   Loaded.
+[02:33:05]  Loading plugin: dc_cmd
+[02:33:05]   Daniel's CMD plugin v2.8
+[02:33:05]     (c) 2014 Daniel_Cortez
+[02:33:05] 	www.pro-pawn.ru
+[02:33:05]   Loaded.
+[02:33:05]  Loaded 2 plugins.
+
+[02:33:05] 
+[02:33:05] Filterscripts
+[02:33:05] ---------------
+[02:33:05]   Loaded 0 filterscripts.
+
+[02:33:05] Number of vehicle models: 0
+[02:33:23] [connection] 127.0.0.1:58446 requests connection cookie.
+[02:33:24] [connection] incoming connection: 127.0.0.1:58446 id: 0
+[02:33:24] [join] wayn. has joined the server (0:127.0.0.1)
+[02:33:42] [part] wayn. has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[02:35:57] filterscripts = ""  (string)
+[02:35:57] weburl = "www.sa-mp.com"  (string)
+[02:35:57] 
+[02:35:57] Server Plugins
+[02:35:57] --------------
+[02:35:57]  Loading plugin: sscanf
+[02:35:57] 
+[02:35:57]  ===============================
+[02:35:57] 
+[02:35:57]       sscanf plugin loaded.     
+[02:35:57] 
+[02:35:57]          Version: 2.13.2
+[02:35:57] 
+[02:35:57]    (c) 2022 Alex "Y_Less" Cole  
+[02:35:57] 
+[02:35:57]  ===============================
+[02:35:57] 
+[02:35:57]   Loaded.
+[02:35:57]  Loading plugin: dc_cmd
+[02:35:57]   Daniel's CMD plugin v2.8
+[02:35:57]     (c) 2014 Daniel_Cortez
+[02:35:57] 	www.pro-pawn.ru
+[02:35:57]   Loaded.
+[02:35:57]  Loaded 2 plugins.
+
+[02:35:57] 
+[02:35:57] Filterscripts
+[02:35:57] ---------------
+[02:35:57]   Loaded 0 filterscripts.
+
+[02:35:57] Number of vehicle models: 0
+[02:36:14] [connection] 127.0.0.1:55617 requests connection cookie.
+[02:36:15] [connection] incoming connection: 127.0.0.1:55617 id: 0
+[02:36:15] [join] wayn. has joined the server (0:127.0.0.1)
+[02:39:14] [part] wayn. has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:19:51] filterscripts = ""  (string)
+[18:19:51] weburl = "www.sa-mp.com"  (string)
+[18:19:51] 
+[18:19:51] Server Plugins
+[18:19:51] --------------
+[18:19:51]  Loading plugin: sscanf
+[18:19:51] 
+[18:19:51]  ===============================
+[18:19:51] 
+[18:19:51]       sscanf plugin loaded.     
+[18:19:51] 
+[18:19:51]          Version: 2.13.2
+[18:19:51] 
+[18:19:51]    (c) 2022 Alex "Y_Less" Cole  
+[18:19:51] 
+[18:19:51]  ===============================
+[18:19:51] 
+[18:19:51]   Loaded.
+[18:19:51]  Loading plugin: dc_cmd
+[18:19:51]   Daniel's CMD plugin v2.8
+[18:19:51]     (c) 2014 Daniel_Cortez
+[18:19:51] 	www.pro-pawn.ru
+[18:19:51]   Loaded.
+[18:19:51]  Loaded 2 plugins.
+
+[18:19:51] 
+[18:19:51] Filterscripts
+[18:19:51] ---------------
+[18:19:51]   Loaded 0 filterscripts.
+
+[18:19:51] Number of vehicle models: 0
+[18:20:11] [connection] 127.0.0.1:60687 requests connection cookie.
+[18:20:12] [connection] incoming connection: 127.0.0.1:60687 id: 0
+[18:20:13] [join] wayn. has joined the server (0:127.0.0.1)
+[18:20:30] [part] wayn. has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:44:19] filterscripts = ""  (string)
+[18:44:19] weburl = "www.sa-mp.com"  (string)
+[18:44:19] 
+[18:44:19] Server Plugins
+[18:44:19] --------------
+[18:44:19]  Loading plugin: sscanf
+[18:44:19] 
+[18:44:19]  ===============================
+[18:44:19] 
+[18:44:19]       sscanf plugin loaded.     
+[18:44:19] 
+[18:44:19]          Version: 2.13.2
+[18:44:19] 
+[18:44:19]    (c) 2022 Alex "Y_Less" Cole  
+[18:44:19] 
+[18:44:19]  ===============================
+[18:44:19] 
+[18:44:19]   Loaded.
+[18:44:19]  Loading plugin: dc_cmd
+[18:44:19]   Daniel's CMD plugin v2.8
+[18:44:19]     (c) 2014 Daniel_Cortez
+[18:44:19] 	www.pro-pawn.ru
+[18:44:19]   Loaded.
+[18:44:19]  Loaded 2 plugins.
+
+[18:44:19] 
+[18:44:19] Filterscripts
+[18:44:19] ---------------
+[18:44:19]   Loaded 0 filterscripts.
+
+[18:44:19] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:34:39] filterscripts = ""  (string)
+[01:34:39] weburl = "www.sa-mp.com"  (string)
+[01:34:39] 
+[01:34:39] Server Plugins
+[01:34:39] --------------
+[01:34:39]  Loading plugin: sscanf
+[01:34:39] 
+[01:34:39]  ===============================
+[01:34:39] 
+[01:34:39]       sscanf plugin loaded.     
+[01:34:39] 
+[01:34:39]          Version: 2.13.2
+[01:34:39] 
+[01:34:39]    (c) 2022 Alex "Y_Less" Cole  
+[01:34:39] 
+[01:34:39]  ===============================
+[01:34:39] 
+[01:34:39]   Loaded.
+[01:34:39]  Loading plugin: dc_cmd
+[01:34:39]   Daniel's CMD plugin v2.8
+[01:34:39]     (c) 2014 Daniel_Cortez
+[01:34:39] 	www.pro-pawn.ru
+[01:34:39]   Loaded.
+[01:34:39]  Loaded 2 plugins.
+
+[01:34:39] 
+[01:34:39] Filterscripts
+[01:34:39] ---------------
+[01:34:39]   Loaded 0 filterscripts.
+
+[01:34:39] Number of vehicle models: 0
+[01:35:00] [connection] 127.0.0.1:57991 requests connection cookie.
+[01:35:01] [connection] incoming connection: 127.0.0.1:57991 id: 0
+[01:35:01] [join] wayn. has joined the server (0:127.0.0.1)
+[01:35:31] [part] wayn. has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:37:02] filterscripts = ""  (string)
+[01:37:02] weburl = "www.sa-mp.com"  (string)
+[01:37:02] 
+[01:37:02] Server Plugins
+[01:37:02] --------------
+[01:37:02]  Loading plugin: sscanf
+[01:37:02] 
+[01:37:02]  ===============================
+[01:37:02] 
+[01:37:02]       sscanf plugin loaded.     
+[01:37:02] 
+[01:37:02]          Version: 2.13.2
+[01:37:02] 
+[01:37:02]    (c) 2022 Alex "Y_Less" Cole  
+[01:37:02] 
+[01:37:02]  ===============================
+[01:37:02] 
+[01:37:02]   Loaded.
+[01:37:02]  Loading plugin: dc_cmd
+[01:37:02]   Daniel's CMD plugin v2.8
+[01:37:02]     (c) 2014 Daniel_Cortez
+[01:37:02] 	www.pro-pawn.ru
+[01:37:02]   Loaded.
+[01:37:02]  Loaded 2 plugins.
+
+[01:37:02] 
+[01:37:02] Filterscripts
+[01:37:02] ---------------
+[01:37:02]   Loaded 0 filterscripts.
+
+[01:37:02] Number of vehicle models: 0
+[01:37:20] [connection] 127.0.0.1:64223 requests connection cookie.
+[01:37:21] [connection] incoming connection: 127.0.0.1:64223 id: 0
+[01:37:21] [join] wayn. has joined the server (0:127.0.0.1)
+[01:37:59] [part] wayn. has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:47:29] filterscripts = ""  (string)
+[01:47:29] weburl = "www.sa-mp.com"  (string)
+[01:47:29] 
+[01:47:29] Server Plugins
+[01:47:29] --------------
+[01:47:29]  Loading plugin: sscanf
+[01:47:29] 
+[01:47:29]  ===============================
+[01:47:29] 
+[01:47:29]       sscanf plugin loaded.     
+[01:47:29] 
+[01:47:29]          Version: 2.13.2
+[01:47:29] 
+[01:47:29]    (c) 2022 Alex "Y_Less" Cole  
+[01:47:29] 
+[01:47:29]  ===============================
+[01:47:29] 
+[01:47:29]   Loaded.
+[01:47:29]  Loading plugin: dc_cmd
+[01:47:29]   Daniel's CMD plugin v2.8
+[01:47:29]     (c) 2014 Daniel_Cortez
+[01:47:29] 	www.pro-pawn.ru
+[01:47:29]   Loaded.
+[01:47:29]  Loaded 2 plugins.
+
+[01:47:29] 
+[01:47:29] Filterscripts
+[01:47:29] ---------------
+[01:47:29]   Loaded 0 filterscripts.
+
+[01:47:29] Number of vehicle models: 0
+[01:47:47] [connection] 127.0.0.1:64463 requests connection cookie.
+[01:47:48] [connection] incoming connection: 127.0.0.1:64463 id: 0
+[01:47:48] [join] wayn. has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:50:11] filterscripts = ""  (string)
+[01:50:11] weburl = "www.sa-mp.com"  (string)
+[01:50:11] 
+[01:50:11] Server Plugins
+[01:50:11] --------------
+[01:50:11]  Loading plugin: sscanf
+[01:50:11] 
+[01:50:11]  ===============================
+[01:50:11] 
+[01:50:11]       sscanf plugin loaded.     
+[01:50:11] 
+[01:50:11]          Version: 2.13.2
+[01:50:11] 
+[01:50:11]    (c) 2022 Alex "Y_Less" Cole  
+[01:50:11] 
+[01:50:11]  ===============================
+[01:50:11] 
+[01:50:11]   Loaded.
+[01:50:11]  Loading plugin: dc_cmd
+[01:50:11]   Daniel's CMD plugin v2.8
+[01:50:11]     (c) 2014 Daniel_Cortez
+[01:50:11] 	www.pro-pawn.ru
+[01:50:11]   Loaded.
+[01:50:11]  Loaded 2 plugins.
+
+[01:50:11] 
+[01:50:11] Filterscripts
+[01:50:11] ---------------
+[01:50:11]   Loaded 0 filterscripts.
+
+[01:50:11] Number of vehicle models: 0
+[01:50:28] [connection] 127.0.0.1:56699 requests connection cookie.
+[01:50:29] [connection] incoming connection: 127.0.0.1:56699 id: 0
+[01:50:29] [join] wayn. has joined the server (0:127.0.0.1)
+[01:51:09] [part] wayn. has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:56:40] filterscripts = ""  (string)
+[01:56:40] weburl = "www.sa-mp.com"  (string)
+[01:56:40] 
+[01:56:40] Server Plugins
+[01:56:40] --------------
+[01:56:40]  Loading plugin: sscanf
+[01:56:40] 
+[01:56:40]  ===============================
+[01:56:40] 
+[01:56:40]       sscanf plugin loaded.     
+[01:56:40] 
+[01:56:40]          Version: 2.13.2
+[01:56:40] 
+[01:56:40]    (c) 2022 Alex "Y_Less" Cole  
+[01:56:40] 
+[01:56:40]  ===============================
+[01:56:40] 
+[01:56:40]   Loaded.
+[01:56:40]  Loading plugin: dc_cmd
+[01:56:40]   Daniel's CMD plugin v2.8
+[01:56:40]     (c) 2014 Daniel_Cortez
+[01:56:40] 	www.pro-pawn.ru
+[01:56:40]   Loaded.
+[01:56:40]  Loaded 2 plugins.
+
+[01:56:40] 
+[01:56:40] Filterscripts
+[01:56:40] ---------------
+[01:56:40]   Loaded 0 filterscripts.
+
+[01:56:40] Number of vehicle models: 0
+[01:56:58] [connection] 127.0.0.1:64087 requests connection cookie.
+[01:56:59] [connection] incoming connection: 127.0.0.1:64087 id: 0
+[01:56:59] [join] wayn. has joined the server (0:127.0.0.1)
+[01:57:17] [part] wayn. has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[02:02:18] filterscripts = ""  (string)
+[02:02:18] weburl = "www.sa-mp.com"  (string)
+[02:02:18] 
+[02:02:18] Server Plugins
+[02:02:18] --------------
+[02:02:18]  Loading plugin: sscanf
+[02:02:18] 
+[02:02:18]  ===============================
+[02:02:18] 
+[02:02:18]       sscanf plugin loaded.     
+[02:02:18] 
+[02:02:18]          Version: 2.13.2
+[02:02:18] 
+[02:02:18]    (c) 2022 Alex "Y_Less" Cole  
+[02:02:18] 
+[02:02:18]  ===============================
+[02:02:18] 
+[02:02:18]   Loaded.
+[02:02:18]  Loading plugin: dc_cmd
+[02:02:18]   Daniel's CMD plugin v2.8
+[02:02:18]     (c) 2014 Daniel_Cortez
+[02:02:18] 	www.pro-pawn.ru
+[02:02:18]   Loaded.
+[02:02:18]  Loaded 2 plugins.
+
+[02:02:18] 
+[02:02:18] Filterscripts
+[02:02:18] ---------------
+[02:02:18]   Loaded 0 filterscripts.
+
+[02:02:18] Number of vehicle models: 0
+[02:02:36] [connection] 127.0.0.1:49246 requests connection cookie.
+[02:02:37] [connection] incoming connection: 127.0.0.1:49246 id: 0
+[02:02:37] [join] wayn. has joined the server (0:127.0.0.1)
+[02:03:25] [part] wayn. has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[02:08:36] filterscripts = ""  (string)
+[02:08:36] weburl = "www.sa-mp.com"  (string)
+[02:08:36] 
+[02:08:36] Server Plugins
+[02:08:36] --------------
+[02:08:36]  Loading plugin: sscanf
+[02:08:36] 
+[02:08:36]  ===============================
+[02:08:36] 
+[02:08:36]       sscanf plugin loaded.     
+[02:08:36] 
+[02:08:36]          Version: 2.13.2
+[02:08:36] 
+[02:08:36]    (c) 2022 Alex "Y_Less" Cole  
+[02:08:36] 
+[02:08:36]  ===============================
+[02:08:36] 
+[02:08:36]   Loaded.
+[02:08:36]  Loading plugin: dc_cmd
+[02:08:36]   Daniel's CMD plugin v2.8
+[02:08:36]     (c) 2014 Daniel_Cortez
+[02:08:36] 	www.pro-pawn.ru
+[02:08:36]   Loaded.
+[02:08:36]  Loaded 2 plugins.
+
+[02:08:36] 
+[02:08:36] Filterscripts
+[02:08:36] ---------------
+[02:08:36]   Loaded 0 filterscripts.
+
+[02:08:36] Number of vehicle models: 0
+[02:08:54] [connection] 127.0.0.1:61869 requests connection cookie.
+[02:08:55] [connection] incoming connection: 127.0.0.1:61869 id: 0
+[02:08:55] [join] wayn. has joined the server (0:127.0.0.1)
+[02:09:55] [part] wayn. has left the server (0:0)
+[02:10:03] [connection] 127.0.0.1:61915 requests connection cookie.
+[02:10:04] [connection] incoming connection: 127.0.0.1:61915 id: 0
+[02:10:04] [join] wayn. has joined the server (0:127.0.0.1)
+[02:10:32] [part] wayn. has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[02:14:23] filterscripts = ""  (string)
+[02:14:23] weburl = "www.sa-mp.com"  (string)
+[02:14:23] 
+[02:14:23] Server Plugins
+[02:14:23] --------------
+[02:14:23]  Loading plugin: sscanf
+[02:14:23] 
+[02:14:23]  ===============================
+[02:14:23] 
+[02:14:23]       sscanf plugin loaded.     
+[02:14:23] 
+[02:14:23]          Version: 2.13.2
+[02:14:23] 
+[02:14:23]    (c) 2022 Alex "Y_Less" Cole  
+[02:14:23] 
+[02:14:23]  ===============================
+[02:14:23] 
+[02:14:23]   Loaded.
+[02:14:23]  Loading plugin: dc_cmd
+[02:14:23]   Daniel's CMD plugin v2.8
+[02:14:23]     (c) 2014 Daniel_Cortez
+[02:14:23] 	www.pro-pawn.ru
+[02:14:23]   Loaded.
+[02:14:23]  Loaded 2 plugins.
+
+[02:14:23] 
+[02:14:23] Filterscripts
+[02:14:23] ---------------
+[02:14:23]   Loaded 0 filterscripts.
+
+[02:14:23] Number of vehicle models: 0
+[02:14:42] [connection] 127.0.0.1:55250 requests connection cookie.
+[02:14:43] [connection] incoming connection: 127.0.0.1:55250 id: 0
+[02:14:43] [join] wayn. has joined the server (0:127.0.0.1)
+[02:15:06] [part] wayn. has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[02:15:56] filterscripts = ""  (string)
+[02:15:56] weburl = "www.sa-mp.com"  (string)
+[02:15:56] 
+[02:15:56] Server Plugins
+[02:15:56] --------------
+[02:15:56]  Loading plugin: sscanf
+[02:15:56] 
+[02:15:56]  ===============================
+[02:15:56] 
+[02:15:56]       sscanf plugin loaded.     
+[02:15:56] 
+[02:15:56]          Version: 2.13.2
+[02:15:56] 
+[02:15:56]    (c) 2022 Alex "Y_Less" Cole  
+[02:15:56] 
+[02:15:56]  ===============================
+[02:15:56] 
+[02:15:56]   Loaded.
+[02:15:56]  Loading plugin: dc_cmd
+[02:15:56]   Daniel's CMD plugin v2.8
+[02:15:56]     (c) 2014 Daniel_Cortez
+[02:15:56] 	www.pro-pawn.ru
+[02:15:56]   Loaded.
+[02:15:56]  Loaded 2 plugins.
+
+[02:15:56] 
+[02:15:56] Filterscripts
+[02:15:56] ---------------
+[02:15:56]   Loaded 0 filterscripts.
+
+[02:15:56] Number of vehicle models: 0
+[02:16:13] [connection] 127.0.0.1:53675 requests connection cookie.
+[02:16:14] [connection] incoming connection: 127.0.0.1:53675 id: 0
+[02:16:14] [join] wayn. has joined the server (0:127.0.0.1)
+[02:16:30] [part] wayn. has left the server (0:1)
+[02:16:54] [connection] 127.0.0.1:57821 requests connection cookie.
+[02:16:55] [connection] incoming connection: 127.0.0.1:57821 id: 0
+[02:16:55] [join] wayn. has joined the server (0:127.0.0.1)
+[02:18:11] [part] wayn. has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[03:26:14] filterscripts = ""  (string)
+[03:26:14] weburl = "www.sa-mp.com"  (string)
+[03:26:14] 
+[03:26:14] Server Plugins
+[03:26:14] --------------
+[03:26:14]  Loading plugin: sscanf
+[03:26:14] 
+[03:26:14]  ===============================
+[03:26:14] 
+[03:26:14]       sscanf plugin loaded.     
+[03:26:14] 
+[03:26:14]          Version: 2.13.2
+[03:26:14] 
+[03:26:14]    (c) 2022 Alex "Y_Less" Cole  
+[03:26:14] 
+[03:26:14]  ===============================
+[03:26:14] 
+[03:26:14]   Loaded.
+[03:26:14]  Loading plugin: dc_cmd
+[03:26:14]   Daniel's CMD plugin v2.8
+[03:26:14]     (c) 2014 Daniel_Cortez
+[03:26:14] 	www.pro-pawn.ru
+[03:26:14]   Loaded.
+[03:26:14]  Loaded 2 plugins.
+
+[03:26:14] 
+[03:26:14] Filterscripts
+[03:26:14] ---------------
+[03:26:14]   Loaded 0 filterscripts.
+
+[03:26:14] Number of vehicle models: 0
+[03:26:35] [connection] 127.0.0.1:64733 requests connection cookie.
+[03:26:36] [connection] incoming connection: 127.0.0.1:64733 id: 0
+[03:26:36] [join] wayn. has joined the server (0:127.0.0.1)
+[03:26:45] [part] wayn. has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[03:27:54] filterscripts = ""  (string)
+[03:27:54] weburl = "www.sa-mp.com"  (string)
+[03:27:54] 
+[03:27:54] Server Plugins
+[03:27:54] --------------
+[03:27:54]  Loading plugin: sscanf
+[03:27:54] 
+[03:27:54]  ===============================
+[03:27:54] 
+[03:27:54]       sscanf plugin loaded.     
+[03:27:54] 
+[03:27:54]          Version: 2.13.2
+[03:27:54] 
+[03:27:54]    (c) 2022 Alex "Y_Less" Cole  
+[03:27:54] 
+[03:27:54]  ===============================
+[03:27:54] 
+[03:27:54]   Loaded.
+[03:27:54]  Loading plugin: dc_cmd
+[03:27:54]   Daniel's CMD plugin v2.8
+[03:27:54]     (c) 2014 Daniel_Cortez
+[03:27:54] 	www.pro-pawn.ru
+[03:27:54]   Loaded.
+[03:27:54]  Loaded 2 plugins.
+
+[03:27:54] 
+[03:27:54] Filterscripts
+[03:27:54] ---------------
+[03:27:54]   Loaded 0 filterscripts.
+
+[03:27:54] Number of vehicle models: 0
+[03:28:12] [connection] 127.0.0.1:50041 requests connection cookie.
+[03:28:13] [connection] incoming connection: 127.0.0.1:50041 id: 0
+[03:28:13] [join] wayn. has joined the server (0:127.0.0.1)
+[03:31:10] [part] wayn. has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[03:31:43] filterscripts = ""  (string)
+[03:31:43] weburl = "www.sa-mp.com"  (string)
+[03:31:43] 
+[03:31:43] Server Plugins
+[03:31:43] --------------
+[03:31:43]  Loading plugin: sscanf
+[03:31:43] 
+[03:31:43]  ===============================
+[03:31:43] 
+[03:31:43]       sscanf plugin loaded.     
+[03:31:43] 
+[03:31:43]          Version: 2.13.2
+[03:31:43] 
+[03:31:43]    (c) 2022 Alex "Y_Less" Cole  
+[03:31:43] 
+[03:31:43]  ===============================
+[03:31:43] 
+[03:31:43]   Loaded.
+[03:31:43]  Loading plugin: dc_cmd
+[03:31:43]   Daniel's CMD plugin v2.8
+[03:31:43]     (c) 2014 Daniel_Cortez
+[03:31:43] 	www.pro-pawn.ru
+[03:31:43]   Loaded.
+[03:31:43]  Loaded 2 plugins.
+
+[03:31:43] 
+[03:31:43] Filterscripts
+[03:31:43] ---------------
+[03:31:43]   Loaded 0 filterscripts.
+
+[03:31:43] Number of vehicle models: 0
+[03:32:01] [connection] 127.0.0.1:50327 requests connection cookie.
+[03:32:02] [connection] incoming connection: 127.0.0.1:50327 id: 0
+[03:32:02] [join] wayn. has joined the server (0:127.0.0.1)
+[03:32:28] [part] wayn. has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[03:32:44] filterscripts = ""  (string)
+[03:32:44] weburl = "www.sa-mp.com"  (string)
+[03:32:44] 
+[03:32:44] Server Plugins
+[03:32:44] --------------
+[03:32:44]  Loading plugin: sscanf
+[03:32:44] 
+[03:32:44]  ===============================
+[03:32:44] 
+[03:32:44]       sscanf plugin loaded.     
+[03:32:44] 
+[03:32:44]          Version: 2.13.2
+[03:32:44] 
+[03:32:44]    (c) 2022 Alex "Y_Less" Cole  
+[03:32:44] 
+[03:32:44]  ===============================
+[03:32:44] 
+[03:32:44]   Loaded.
+[03:32:44]  Loading plugin: dc_cmd
+[03:32:44]   Daniel's CMD plugin v2.8
+[03:32:44]     (c) 2014 Daniel_Cortez
+[03:32:44] 	www.pro-pawn.ru
+[03:32:44]   Loaded.
+[03:32:44]  Loaded 2 plugins.
+
+[03:32:44] 
+[03:32:44] Filterscripts
+[03:32:44] ---------------
+[03:32:44]   Loaded 0 filterscripts.
+
+[03:32:44] Number of vehicle models: 0
+[03:33:01] [connection] 127.0.0.1:58307 requests connection cookie.
+[03:33:02] [connection] incoming connection: 127.0.0.1:58307 id: 0
+[03:33:02] [join] wayn. has joined the server (0:127.0.0.1)
+[03:33:45] [part] wayn. has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:50:24] filterscripts = ""  (string)
+[19:50:24] weburl = "www.sa-mp.com"  (string)
+[19:50:24] 
+[19:50:24] Server Plugins
+[19:50:24] --------------
+[19:50:24]  Loading plugin: sscanf
+[19:50:24] 
+[19:50:24]  ===============================
+[19:50:24] 
+[19:50:24]       sscanf plugin loaded.     
+[19:50:24] 
+[19:50:24]          Version: 2.13.2
+[19:50:24] 
+[19:50:24]    (c) 2022 Alex "Y_Less" Cole  
+[19:50:24] 
+[19:50:24]  ===============================
+[19:50:24] 
+[19:50:24]   Loaded.
+[19:50:24]  Loading plugin: dc_cmd
+[19:50:24]   Daniel's CMD plugin v2.8
+[19:50:24]     (c) 2014 Daniel_Cortez
+[19:50:24] 	www.pro-pawn.ru
+[19:50:24]   Loaded.
+[19:50:24]  Loaded 2 plugins.
+
+[19:50:24] 
+[19:50:24] Filterscripts
+[19:50:24] ---------------
+[19:50:24]   Loaded 0 filterscripts.
+
+[19:50:24] Number of vehicle models: 0
+[19:50:44] [connection] 127.0.0.1:50269 requests connection cookie.
+[19:50:45] [connection] incoming connection: 127.0.0.1:50269 id: 0
+[19:50:45] [join] wayn. has joined the server (0:127.0.0.1)
+[19:51:12] [part] wayn. has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:01:38] filterscripts = ""  (string)
+[20:01:38] weburl = "www.sa-mp.com"  (string)
+[20:01:38] 
+[20:01:38] Server Plugins
+[20:01:38] --------------
+[20:01:38]  Loading plugin: sscanf
+[20:01:38] 
+[20:01:38]  ===============================
+[20:01:38] 
+[20:01:38]       sscanf plugin loaded.     
+[20:01:38] 
+[20:01:38]          Version: 2.13.2
+[20:01:38] 
+[20:01:38]    (c) 2022 Alex "Y_Less" Cole  
+[20:01:38] 
+[20:01:38]  ===============================
+[20:01:38] 
+[20:01:38]   Loaded.
+[20:01:38]  Loading plugin: dc_cmd
+[20:01:38]   Daniel's CMD plugin v2.8
+[20:01:38]     (c) 2014 Daniel_Cortez
+[20:01:38] 	www.pro-pawn.ru
+[20:01:38]   Loaded.
+[20:01:38]  Loaded 2 plugins.
+
+[20:01:38] 
+[20:01:38] Filterscripts
+[20:01:38] ---------------
+[20:01:38]   Loaded 0 filterscripts.
+
+[20:01:38] Number of vehicle models: 0
+[20:01:57] [connection] 127.0.0.1:63654 requests connection cookie.
+[20:01:58] [connection] incoming connection: 127.0.0.1:63654 id: 0
+[20:01:58] [join] wayn. has joined the server (0:127.0.0.1)
+[20:02:50] [part] wayn. has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:05:54] filterscripts = ""  (string)
+[20:05:54] weburl = "www.sa-mp.com"  (string)
+[20:05:54] 
+[20:05:54] Server Plugins
+[20:05:54] --------------
+[20:05:54]  Loading plugin: sscanf
+[20:05:54] 
+[20:05:54]  ===============================
+[20:05:54] 
+[20:05:54]       sscanf plugin loaded.     
+[20:05:54] 
+[20:05:54]          Version: 2.13.2
+[20:05:54] 
+[20:05:54]    (c) 2022 Alex "Y_Less" Cole  
+[20:05:54] 
+[20:05:54]  ===============================
+[20:05:54] 
+[20:05:54]   Loaded.
+[20:05:54]  Loading plugin: dc_cmd
+[20:05:54]   Daniel's CMD plugin v2.8
+[20:05:54]     (c) 2014 Daniel_Cortez
+[20:05:54] 	www.pro-pawn.ru
+[20:05:54]   Loaded.
+[20:05:54]  Loaded 2 plugins.
+
+[20:05:54] 
+[20:05:54] Filterscripts
+[20:05:54] ---------------
+[20:05:54]   Loaded 0 filterscripts.
+
+[20:05:54] Number of vehicle models: 0
+[20:06:11] [connection] 127.0.0.1:60289 requests connection cookie.
+[20:06:12] [connection] incoming connection: 127.0.0.1:60289 id: 0
+[20:06:13] [join] wayn. has joined the server (0:127.0.0.1)
+[20:06:53] [part] wayn. has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:25:33] filterscripts = ""  (string)
+[21:25:33] weburl = "www.sa-mp.com"  (string)
+[21:25:33] 
+[21:25:33] Server Plugins
+[21:25:33] --------------
+[21:25:33]  Loading plugin: sscanf
+[21:25:33] 
+[21:25:33]  ===============================
+[21:25:33] 
+[21:25:33]       sscanf plugin loaded.     
+[21:25:33] 
+[21:25:33]          Version: 2.13.2
+[21:25:33] 
+[21:25:33]    (c) 2022 Alex "Y_Less" Cole  
+[21:25:33] 
+[21:25:33]  ===============================
+[21:25:33] 
+[21:25:33]   Loaded.
+[21:25:33]  Loading plugin: dc_cmd
+[21:25:33]   Daniel's CMD plugin v2.8
+[21:25:33]     (c) 2014 Daniel_Cortez
+[21:25:33] 	www.pro-pawn.ru
+[21:25:33]   Loaded.
+[21:25:33]  Loaded 2 plugins.
+
+[21:25:34] 
+[21:25:34] Filterscripts
+[21:25:34] ---------------
+[21:25:34]   Loaded 0 filterscripts.
+
+[21:25:34] Number of vehicle models: 0
+[21:25:51] [connection] 127.0.0.1:53877 requests connection cookie.
+[21:25:52] [connection] incoming connection: 127.0.0.1:53877 id: 0
+[21:25:53] [join] wayn. has joined the server (0:127.0.0.1)
+[21:26:05] [part] wayn. has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:29:31] filterscripts = ""  (string)
+[21:29:31] weburl = "www.sa-mp.com"  (string)
+[21:29:31] 
+[21:29:31] Server Plugins
+[21:29:31] --------------
+[21:29:31]  Loading plugin: sscanf
+[21:29:31] 
+[21:29:31]  ===============================
+[21:29:31] 
+[21:29:31]       sscanf plugin loaded.     
+[21:29:31] 
+[21:29:31]          Version: 2.13.2
+[21:29:31] 
+[21:29:31]    (c) 2022 Alex "Y_Less" Cole  
+[21:29:31] 
+[21:29:31]  ===============================
+[21:29:31] 
+[21:29:31]   Loaded.
+[21:29:31]  Loading plugin: dc_cmd
+[21:29:31]   Daniel's CMD plugin v2.8
+[21:29:31]     (c) 2014 Daniel_Cortez
+[21:29:31] 	www.pro-pawn.ru
+[21:29:31]   Loaded.
+[21:29:31]  Loaded 2 plugins.
+
+[21:29:31] 
+[21:29:31] Filterscripts
+[21:29:31] ---------------
+[21:29:31]   Loaded 0 filterscripts.
+
+[21:29:31] Number of vehicle models: 0
+[21:29:50] [connection] 127.0.0.1:53872 requests connection cookie.
+[21:29:51] [connection] incoming connection: 127.0.0.1:53872 id: 0
+[21:29:51] [join] wayn. has joined the server (0:127.0.0.1)
+[21:30:00] [part] wayn. has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:31:41] filterscripts = ""  (string)
+[21:31:41] weburl = "www.sa-mp.com"  (string)
+[21:31:41] 
+[21:31:41] Server Plugins
+[21:31:41] --------------
+[21:31:41]  Loading plugin: sscanf
+[21:31:41] 
+[21:31:41]  ===============================
+[21:31:41] 
+[21:31:41]       sscanf plugin loaded.     
+[21:31:41] 
+[21:31:41]          Version: 2.13.2
+[21:31:41] 
+[21:31:41]    (c) 2022 Alex "Y_Less" Cole  
+[21:31:41] 
+[21:31:41]  ===============================
+[21:31:41] 
+[21:31:41]   Loaded.
+[21:31:41]  Loading plugin: dc_cmd
+[21:31:41]   Daniel's CMD plugin v2.8
+[21:31:41]     (c) 2014 Daniel_Cortez
+[21:31:41] 	www.pro-pawn.ru
+[21:31:41]   Loaded.
+[21:31:41]  Loaded 2 plugins.
+
+[21:31:41] 
+[21:31:41] Filterscripts
+[21:31:41] ---------------
+[21:31:41]   Loaded 0 filterscripts.
+
+[21:31:41] Number of vehicle models: 0
+[21:31:58] [connection] 127.0.0.1:51498 requests connection cookie.
+[21:31:59] [connection] incoming connection: 127.0.0.1:51498 id: 0
+[21:31:59] [join] wayn. has joined the server (0:127.0.0.1)
+[21:32:22] [part] wayn. has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:36:12] filterscripts = ""  (string)
+[21:36:12] weburl = "www.sa-mp.com"  (string)
+[21:36:12] 
+[21:36:12] Server Plugins
+[21:36:12] --------------
+[21:36:12]  Loading plugin: sscanf
+[21:36:12] 
+[21:36:12]  ===============================
+[21:36:12] 
+[21:36:12]       sscanf plugin loaded.     
+[21:36:12] 
+[21:36:12]          Version: 2.13.2
+[21:36:12] 
+[21:36:12]    (c) 2022 Alex "Y_Less" Cole  
+[21:36:12] 
+[21:36:12]  ===============================
+[21:36:12] 
+[21:36:12]   Loaded.
+[21:36:12]  Loading plugin: dc_cmd
+[21:36:12]   Daniel's CMD plugin v2.8
+[21:36:12]     (c) 2014 Daniel_Cortez
+[21:36:12] 	www.pro-pawn.ru
+[21:36:12]   Loaded.
+[21:36:12]  Loaded 2 plugins.
+
+[21:36:12] 
+[21:36:12] Filterscripts
+[21:36:12] ---------------
+[21:36:12]   Loaded 0 filterscripts.
+
+[21:36:12] Number of vehicle models: 0
+[21:36:30] [connection] 127.0.0.1:64884 requests connection cookie.
+[21:36:31] [connection] incoming connection: 127.0.0.1:64884 id: 0
+[21:36:31] [join] wayn. has joined the server (0:127.0.0.1)
+[21:37:10] [part] wayn. has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:36:44] filterscripts = ""  (string)
+[01:36:44] weburl = "www.sa-mp.com"  (string)
+[01:36:44] 
+[01:36:44] Server Plugins
+[01:36:44] --------------
+[01:36:44]  Loading plugin: sscanf
+[01:36:44] 
+[01:36:44]  ===============================
+[01:36:44] 
+[01:36:44]       sscanf plugin loaded.     
+[01:36:44] 
+[01:36:44]          Version: 2.13.2
+[01:36:44] 
+[01:36:44]    (c) 2022 Alex "Y_Less" Cole  
+[01:36:44] 
+[01:36:44]  ===============================
+[01:36:44] 
+[01:36:44]   Loaded.
+[01:36:44]  Loading plugin: dc_cmd
+[01:36:44]   Daniel's CMD plugin v2.8
+[01:36:44]     (c) 2014 Daniel_Cortez
+[01:36:44] 	www.pro-pawn.ru
+[01:36:44]   Loaded.
+[01:36:44]  Loaded 2 plugins.
+
+[01:36:44] 
+[01:36:44] Filterscripts
+[01:36:44] ---------------
+[01:36:44]   Loaded 0 filterscripts.
+
+[01:36:44] Number of vehicle models: 0
+[01:37:03] [connection] 127.0.0.1:56548 requests connection cookie.
+[01:37:04] [connection] incoming connection: 127.0.0.1:56548 id: 0
+[01:37:05] [join] wayn. has joined the server (0:127.0.0.1)
+[01:37:29] [part] wayn. has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:47:49] filterscripts = ""  (string)
+[01:47:49] weburl = "www.sa-mp.com"  (string)
+[01:47:49] 
+[01:47:49] Server Plugins
+[01:47:49] --------------
+[01:47:49]  Loading plugin: sscanf
+[01:47:49] 
+[01:47:49]  ===============================
+[01:47:49] 
+[01:47:49]       sscanf plugin loaded.     
+[01:47:49] 
+[01:47:49]          Version: 2.13.2
+[01:47:49] 
+[01:47:49]    (c) 2022 Alex "Y_Less" Cole  
+[01:47:49] 
+[01:47:49]  ===============================
+[01:47:49] 
+[01:47:49]   Loaded.
+[01:47:49]  Loading plugin: dc_cmd
+[01:47:49]   Daniel's CMD plugin v2.8
+[01:47:49]     (c) 2014 Daniel_Cortez
+[01:47:49] 	www.pro-pawn.ru
+[01:47:49]   Loaded.
+[01:47:49]  Loaded 2 plugins.
+
+[01:47:49] 
+[01:47:49] Filterscripts
+[01:47:49] ---------------
+[01:47:49]   Loaded 0 filterscripts.
+
+[01:47:49] Number of vehicle models: 0
+[01:48:10] [connection] 127.0.0.1:59073 requests connection cookie.
+[01:48:11] [connection] incoming connection: 127.0.0.1:59073 id: 0
+[01:48:11] [join] wayn. has joined the server (0:127.0.0.1)
+[01:48:42] [part] wayn. has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:49:37] filterscripts = ""  (string)
+[01:49:37] weburl = "www.sa-mp.com"  (string)
+[01:49:37] 
+[01:49:37] Server Plugins
+[01:49:37] --------------
+[01:49:37]  Loading plugin: sscanf
+[01:49:37] 
+[01:49:37]  ===============================
+[01:49:37] 
+[01:49:37]       sscanf plugin loaded.     
+[01:49:37] 
+[01:49:37]          Version: 2.13.2
+[01:49:37] 
+[01:49:37]    (c) 2022 Alex "Y_Less" Cole  
+[01:49:37] 
+[01:49:37]  ===============================
+[01:49:37] 
+[01:49:37]   Loaded.
+[01:49:37]  Loading plugin: dc_cmd
+[01:49:37]   Daniel's CMD plugin v2.8
+[01:49:37]     (c) 2014 Daniel_Cortez
+[01:49:37] 	www.pro-pawn.ru
+[01:49:37]   Loaded.
+[01:49:37]  Loaded 2 plugins.
+
+[01:49:37] 
+[01:49:37] Filterscripts
+[01:49:37] ---------------
+[01:49:37]   Loaded 0 filterscripts.
+
+[01:49:37] Number of vehicle models: 0
+[01:50:00] [connection] 127.0.0.1:51597 requests connection cookie.
+[01:50:01] [connection] incoming connection: 127.0.0.1:51597 id: 0
+[01:50:01] [join] wayn. has joined the server (0:127.0.0.1)
+[01:50:28] [part] wayn. has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:52:06] filterscripts = ""  (string)
+[01:52:06] weburl = "www.sa-mp.com"  (string)
+[01:52:06] 
+[01:52:06] Server Plugins
+[01:52:06] --------------
+[01:52:06]  Loading plugin: sscanf
+[01:52:06] 
+[01:52:06]  ===============================
+[01:52:06] 
+[01:52:06]       sscanf plugin loaded.     
+[01:52:06] 
+[01:52:06]          Version: 2.13.2
+[01:52:06] 
+[01:52:06]    (c) 2022 Alex "Y_Less" Cole  
+[01:52:06] 
+[01:52:06]  ===============================
+[01:52:06] 
+[01:52:06]   Loaded.
+[01:52:06]  Loading plugin: dc_cmd
+[01:52:06]   Daniel's CMD plugin v2.8
+[01:52:06]     (c) 2014 Daniel_Cortez
+[01:52:06] 	www.pro-pawn.ru
+[01:52:06]   Loaded.
+[01:52:06]  Loaded 2 plugins.
+
+[01:52:06] 
+[01:52:06] Filterscripts
+[01:52:06] ---------------
+[01:52:06]   Loaded 0 filterscripts.
+
+[01:52:06] Number of vehicle models: 0
+[01:52:24] [connection] 127.0.0.1:64922 requests connection cookie.
+[01:52:25] [connection] incoming connection: 127.0.0.1:64922 id: 0
+[01:52:26] [join] wayn. has joined the server (0:127.0.0.1)
+[01:53:10] [part] wayn. has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:56:35] filterscripts = ""  (string)
+[01:56:35] weburl = "www.sa-mp.com"  (string)
+[01:56:35] 
+[01:56:35] Server Plugins
+[01:56:35] --------------
+[01:56:35]  Loading plugin: sscanf
+[01:56:35] 
+[01:56:35]  ===============================
+[01:56:35] 
+[01:56:35]       sscanf plugin loaded.     
+[01:56:35] 
+[01:56:35]          Version: 2.13.2
+[01:56:35] 
+[01:56:35]    (c) 2022 Alex "Y_Less" Cole  
+[01:56:35] 
+[01:56:35]  ===============================
+[01:56:35] 
+[01:56:35]   Loaded.
+[01:56:35]  Loading plugin: dc_cmd
+[01:56:35]   Daniel's CMD plugin v2.8
+[01:56:35]     (c) 2014 Daniel_Cortez
+[01:56:35] 	www.pro-pawn.ru
+[01:56:35]   Loaded.
+[01:56:35]  Loaded 2 plugins.
+
+[01:56:35] 
+[01:56:35] Filterscripts
+[01:56:35] ---------------
+[01:56:35]   Loaded 0 filterscripts.
+
+[01:56:35] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:56:37] filterscripts = ""  (string)
+[01:56:37] weburl = "www.sa-mp.com"  (string)
+[01:56:37] 
+[01:56:37] Server Plugins
+[01:56:37] --------------
+[01:56:37]  Loading plugin: sscanf
+[01:56:37] 
+[01:56:37]  ===============================
+[01:56:37] 
+[01:56:37]       sscanf plugin loaded.     
+[01:56:37] 
+[01:56:37]          Version: 2.13.2
+[01:56:37] 
+[01:56:37]    (c) 2022 Alex "Y_Less" Cole  
+[01:56:37] 
+[01:56:37]  ===============================
+[01:56:37] 
+[01:56:37]   Loaded.
+[01:56:37]  Loading plugin: dc_cmd
+[01:56:37]   Daniel's CMD plugin v2.8
+[01:56:37]     (c) 2014 Daniel_Cortez
+[01:56:37] 	www.pro-pawn.ru
+[01:56:37]   Loaded.
+[01:56:37]  Loaded 2 plugins.
+
+[01:56:37] 
+[01:56:37] Filterscripts
+[01:56:37] ---------------
+[01:56:37]   Loaded 0 filterscripts.
+
+[01:56:37] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:56:40] filterscripts = ""  (string)
+[01:56:40] weburl = "www.sa-mp.com"  (string)
+[01:56:40] 
+[01:56:40] Server Plugins
+[01:56:40] --------------
+[01:56:40]  Loading plugin: sscanf
+[01:56:40] 
+[01:56:40]  ===============================
+[01:56:40] 
+[01:56:40]       sscanf plugin loaded.     
+[01:56:40] 
+[01:56:40]          Version: 2.13.2
+[01:56:40] 
+[01:56:40]    (c) 2022 Alex "Y_Less" Cole  
+[01:56:40] 
+[01:56:40]  ===============================
+[01:56:40] 
+[01:56:40]   Loaded.
+[01:56:40]  Loading plugin: dc_cmd
+[01:56:40]   Daniel's CMD plugin v2.8
+[01:56:40]     (c) 2014 Daniel_Cortez
+[01:56:40] 	www.pro-pawn.ru
+[01:56:40]   Loaded.
+[01:56:40]  Loaded 2 plugins.
+
+[01:56:40] 
+[01:56:40] Filterscripts
+[01:56:40] ---------------
+[01:56:40]   Loaded 0 filterscripts.
+
+[01:56:40] Number of vehicle models: 0
+[01:56:58] [connection] 127.0.0.1:56122 requests connection cookie.
+[01:56:59] [connection] incoming connection: 127.0.0.1:56122 id: 0
+[01:56:59] [join] wayn. has joined the server (0:127.0.0.1)
+[01:57:23] [part] wayn. has left the server (0:1)
